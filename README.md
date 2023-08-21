@@ -20,7 +20,6 @@ In this repository, we dive into the core concepts of classical machine learning
  - lab01_ml_pipeline:Notebook with sklearn classical ml playground
  - lab02_deep_learning: Notebook with deep learning playground
 
-
 ## Getting Started:
  - git clone https://github.com/your-username/classic-ml-algorithms-lab.git
  - Install the required libraries specified in the requirements.txt file in each lab.
