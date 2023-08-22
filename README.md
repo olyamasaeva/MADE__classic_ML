@@ -31,5 +31,5 @@ In this repository, we dive into the core concepts of classical machine learning
  - Install the required libraries specified in the requirements.txt file in each lab.
  - Access the Jupyter notebooks in the notebooks directory to follow the step-by-step implementations.
  - Modify and experiment with the code to gain a deeper understanding of the algorithms.
- - 
+   
 Thank you for visiting my repository! I hope these laboratory works provide you with a solid foundation in classical machine learning algorithms and inspire you to explore more advanced concepts in the field. Happy learning!
