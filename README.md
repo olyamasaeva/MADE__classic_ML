@@ -13,12 +13,18 @@ In this repository, we dive into the core concepts of classical machine learning
  -  Interactive Jupyter Notebooks: Hands-on exercises and practical examples for easy learning and experimentation.
 
 ## Project Structure:
- - assignment0_01_knn: Notebook with classical KNN implementation
- - assignment0_02_lin_reg: Notebook with linear regression implementation with regulatization
- - assignment0_03_tree: Notebook with classical decision tree  implementation
- - assignment0_04_nn_from_scratch: Notebook of neuron network hand implementation
- - lab01_ml_pipeline:Notebook with sklearn classical ml playground
- - lab02_deep_learning: Notebook with deep learning playground
+- homeworks
+  - assignment0_01_knn: Notebook with classical KNN implementation
+  - assignment0_02_lin_reg: Notebook with linear regression implementation with regulatization
+  - assignment0_03_tree: Notebook with classical decision tree  implementation
+  - assignment0_04_nn_from_scratch: Notebook of neuron network hand implementation
+  - lab01_ml_pipeline:Notebook with sklearn classical ml playground
+  - lab02_deep_learning: Notebook with deep learning playground
+ - practice_sessions
+    - data: folder for storing notebooks data
+    - models: folder for storing saved models
+    - img : folder for storing images used in notebooks
+    - Notebooks.ipynb: notebooks files for various of topics
 
 ## Getting Started:
  - git clone https://github.com/your-username/classic-ml-algorithms-lab.git
